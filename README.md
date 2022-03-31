@@ -1,4 +1,4 @@
-# studentdashboard
+# game store 
 
 ## Project setup
 ```
